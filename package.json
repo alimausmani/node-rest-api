@@ -7,7 +7,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alima Usmani",
   "license": "ISC",
   "description": "",
   "dependencies": {
